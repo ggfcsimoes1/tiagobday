@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tiagobday/static/css/main.86e47081.css",
+    "main.js": "/tiagobday/static/js/main.50fe8974.js",
+    "static/js/787.23721ca6.chunk.js": "/tiagobday/static/js/787.23721ca6.chunk.js",
+    "index.html": "/tiagobday/index.html",
+    "main.86e47081.css.map": "/tiagobday/static/css/main.86e47081.css.map",
+    "main.50fe8974.js.map": "/tiagobday/static/js/main.50fe8974.js.map",
+    "787.23721ca6.chunk.js.map": "/tiagobday/static/js/787.23721ca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e47081.css",
+    "static/js/main.50fe8974.js"
+  ]
+}
