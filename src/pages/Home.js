@@ -22,14 +22,21 @@ export function Home() {
     <>
       <div className="center">
         {image ? (
-          <img src="scamalizado.png" />
+          <>
+            <img src="scamalizado.png" />
+            <h1 className="tab blink">(depois combinamos)</h1>
+          </>
         ) : (
           <>
             <h1 className="tab blink">parabens tiago!</h1>
             {clicked ? (
               <>
                 <h2>clique no cupão para resgatar!</h2>
-                <img className="clickable-image" src="tiago.png" onClick={(e) => handleImageClick(e)} />
+                <img
+                  className="clickable-image"
+                  src="tiago.png"
+                  onClick={(e) => handleImageClick(e)}
+                />
               </>
             ) : (
               <>
